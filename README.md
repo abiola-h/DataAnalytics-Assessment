@@ -1,6 +1,6 @@
 # Data Analytics Assessment
 
-This repository contains my solutions to the Data Analytics SQL assessment usinng MySQL.
+This repository contains my solutions to the Data Analytics SQL assessment using MySQL.
 
 ## Per-Question Explanations
 
@@ -26,7 +26,7 @@ This repository contains my solutions to the Data Analytics SQL assessment usinn
 
 ## Challenges
 
-* **Date Calculations:** Calculating the correct time differences (e.g., months, days) required careful use of MySQL's date functions like `DATEDIFF` and `TIMESTAMPDIFF`.
-* **CLV Calculation:** Ensuring the CLV calculation was accurate, especially the conversion from kobo to naira and applying the profit margin, required close attention to the formula.
-* **Assumptions:** I made the assumption that `confirmed_amount` in the savings table represented a transaction value.
+* **Date Calculations:** Calculating the correct time differences required the use of MySQL's date functions.
+* **CLV Calculation:** I made sure the CLV calculation was accurate, especially the conversion from kobo to naira.
+* **Assumptions:** I assumed that `confirmed_amount` in the savings table represented the correct transaction value.
 
